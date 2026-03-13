@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ahri",
+    "rol": "Maga",
+    "dificultad": 2,
+    "region": "Ionia",
+    "recurso": "Maná",
+    "año_lanzamiento": 2011,
+    "habilidades": ["Orbe del Engaño", "Fuego Zorruno", "Encanto", "Impulso Espiritual"]
+  },
+  {
+    "id": 2,
+    "nombre": "Garen",
+    "rol": "Luchador",
+    "dificultad": 1,
+    "region": "Demacia",
+    "recurso": "Ninguno",
+    "año_lanzamiento": 2010,
+    "habilidades": ["Golpe Decisivo", "Coraje", "Juicio", "Justicia Demaciana"]
+  },
+  {
+    "id": 3,
+    "nombre": "Zed",
+    "rol": "Asesino",
+    "dificultad": 3,
+    "region": "Ionia",
+    "recurso": "Energía",
+    "año_lanzamiento": 2012,
+    "habilidades": ["Navaja Shuriken", "Sombra Viviente", "Corte Sombrío", "Marca de la Muerte"]
+  },
+  {
+    "id": 4,
+    "nombre": "Lux",
+    "rol": "Maga",
+    "dificultad": 1,
+    "region": "Demacia",
+    "recurso": "Maná",
+    "año_lanzamiento": 2010,
+    "habilidades": ["Prisión de Luz", "Barrera Prismática", "Singularidad Brillante", "Chispa Final"]
+  },
+  {
+    "id": 5,
+    "nombre": "Darius",
+    "rol": "Luchador",
+    "dificultad": 2,
+    "region": "Noxus",
+    "recurso": "Maná",
+    "año_lanzamiento": 2012,
+    "habilidades": ["Diezmar", "Golpe Incapacitante", "Aprehender", "Guillotina Noxiana"]
+  },
+  {
+    "id": 6,
+    "nombre": "Katarina",
+    "rol": "Asesina",
+    "dificultad": 3,
+    "region": "Noxus",
+    "recurso": "Ninguno",
+    "año_lanzamiento": 2009,
+    "habilidades": ["Hoja Rebotante", "Preparación", "Paso Sombrío", "Loto Mortal"]
+  },
+  {
+    "id": 7,
+    "nombre": "Ashe",
+    "rol": "Tiradora",
+    "dificultad": 1,
+    "region": "Freljord",
+    "recurso": "Maná",
+    "año_lanzamiento": 2009,
+    "habilidades": ["Disparo de Exploración", "Enfoque del Guardabosques", "Descarga", "Flecha de Cristal Encantada"]
+  },
+  {
+    "id": 8,
+    "nombre": "Lee Sin",
+    "rol": "Luchador",
+    "dificultad": 3,
+    "region": "Ionia",
+    "recurso": "Energía",
+    "año_lanzamiento": 2011,
+    "habilidades": ["Onda Sónica", "Salvaguarda", "Tempestad", "Patada del Dragón"]
+  },
+  {
+    "id": 9,
+    "nombre": "Jinx",
+    "rol": "Tiradora",
+    "dificultad": 2,
+    "region": "Zaun",
+    "recurso": "Maná",
+    "año_lanzamiento": 2013,
+    "habilidades": ["¡Cambio de Arma!", "Zap", "Mascafuegos", "Supermegacohete Requeteletal"]
+  },
+  {
+    "id": 10,
+    "nombre": "Thresh",
+    "rol": "Soporte",
+    "dificultad": 3,
+    "region": "Islas de la Sombra",
+    "recurso": "Maná",
+    "año_lanzamiento": 2013,
+    "habilidades": ["Sentencia", "Condena Oscura", "La Linterna", "La Caja"]
+  }
+]
